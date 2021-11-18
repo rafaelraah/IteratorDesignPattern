@@ -1,0 +1,13 @@
+C:\Users\PICHAU\source\repos\rafaelraah\Iterator\IteratorDesignPattern\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.exe
+C:\Users\PICHAU\source\repos\rafaelraah\Iterator\IteratorDesignPattern\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.deps.json
+C:\Users\PICHAU\source\repos\rafaelraah\Iterator\IteratorDesignPattern\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.runtimeconfig.json
+C:\Users\PICHAU\source\repos\rafaelraah\Iterator\IteratorDesignPattern\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.runtimeconfig.dev.json
+C:\Users\PICHAU\source\repos\rafaelraah\Iterator\IteratorDesignPattern\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.dll
+C:\Users\PICHAU\source\repos\rafaelraah\Iterator\IteratorDesignPattern\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.pdb
+C:\Users\PICHAU\source\repos\rafaelraah\Iterator\IteratorDesignPattern\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\rafaelraah\Iterator\IteratorDesignPattern\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\rafaelraah\Iterator\IteratorDesignPattern\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\rafaelraah\Iterator\IteratorDesignPattern\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.AssemblyInfo.cs
+C:\Users\PICHAU\source\repos\rafaelraah\Iterator\IteratorDesignPattern\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.dll
+C:\Users\PICHAU\source\repos\rafaelraah\Iterator\IteratorDesignPattern\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.pdb
+C:\Users\PICHAU\source\repos\rafaelraah\Iterator\IteratorDesignPattern\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.genruntimeconfig.cache
